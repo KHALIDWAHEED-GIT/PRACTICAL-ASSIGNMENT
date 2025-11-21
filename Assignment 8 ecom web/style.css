@@ -1,0 +1,126 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black ;
+    height: 25px;
+}
+
+.serach{
+    height: 30px;
+    width: 300px;
+    border-radius: 40px;
+}
+
+.nav{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.but{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.parent1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   
+}
+
+
+
+.star{
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+}
+
+.star2{
+    position: relative;
+    bottom: 400px;
+   right: 70px;
+}
+
+.BRANDS{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+
+.text{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.view{
+    color: white;
+    background-color: black;
+    font-size: 50px;
+     margin-left: 500px;
+     margin-top: 50px;
+    border-radius: 10px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    color: white;
+    background-color: black;
+}
+
+.bars{
+    height: 30px;
+    width: 400px;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+
+.icons{
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    list-style: none;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.line{
+    margin: 30px;
+}
+
+.paynment{
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+}
+
+
